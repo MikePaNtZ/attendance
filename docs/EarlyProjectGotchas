@@ -1,0 +1,6 @@
+
+apparrently having the www. in the database ip address was causing problems.
+I also edited my /etc/resolv.conf file and /etc/hosts file to fix my own personal problem of connecting to the database by using the hostname rather than the local network address.
+
+I got rocked trying to start a node server on port 80. Error message is the following:
+
